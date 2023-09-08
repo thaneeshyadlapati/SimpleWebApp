@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Currenly no mobile offers in flipkart</h1>   
+         <h1>New stock of mobiles arrived at great discounts</h1>   
 	 
 
     </section>    
